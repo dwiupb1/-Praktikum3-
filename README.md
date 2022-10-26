@@ -8,8 +8,11 @@ phi = 3.14
 diameter = 2*r
 
 luas = phi*r*r
+
 keliling = phi*diameter
+
 print('\nLuasnya    =', str("%.2f" % luas))
+
 print('kelilingnya =', str("%.2f" % keliling))
 
 # Flowchart Menghitung Luas Lingkaran
@@ -29,3 +32,5 @@ print('kelilingnya =', str("%.2f" % keliling))
 # Berikut penampilan kode program untuk menghitung luas dan keliling lingkaran
 
 ![image](png/a2.PNG)
+
+                # TERIMAKASIH #
