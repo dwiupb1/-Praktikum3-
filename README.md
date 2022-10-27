@@ -17,7 +17,7 @@ print('kelilingnya =', str("%.2f" % keliling))
 
 # Flowchart Menghitung Luas Lingkaran
 
-![image](png/a1.PNG)
+<img src="a1.PNG">
 
 # Penjelasan program menghitung luas dan keliling
 
@@ -31,6 +31,6 @@ print('kelilingnya =', str("%.2f" % keliling))
 
 # Berikut penampilan kode program untuk menghitung luas dan keliling lingkaran
 
-![image](png/a2.PNG)
+<img src="a2.PNG">
 
                 # TERIMAKASIH #
